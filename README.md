@@ -12,7 +12,7 @@ Each project includes:
 
 # 📚 Table of Contents
 
-1. [Python for Beginners](#python)
+1. [Python for Beginners](python.md)
 2. [Software Testing](#software-testing)
 3. [Azure DevOps](#azure-devops)
 4. [GitHub & Portfolio](#github--portfolio)
