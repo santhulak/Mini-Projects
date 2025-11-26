@@ -36,7 +36,7 @@ expenses.csv
 ├─ 📊 expenses.csv — Auto-created on first run
 ├─ 📘 requirements.txt
 └─ 📝 README.md
-
+```text
 ---
 
 # 🛠️ **1. Setup Instructions**
@@ -222,6 +222,7 @@ MIT License
 <p align="center">
 ✨ Built with Python. Designed for beginners. Ready for real-world use. ✨
 </p>
+
 
 
 
