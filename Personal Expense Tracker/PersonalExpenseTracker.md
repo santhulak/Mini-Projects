@@ -152,7 +152,9 @@ You can make development easier with:
 
 ---
 
-# 🔄 **4. App Workflow Diagram**
+## 🔄 App Workflow Diagram
+
+```text
               ┌──────────────────────┐
               │   expense_tracker.py │
               │        (CLI)         │
@@ -166,14 +168,10 @@ You can make development easier with:
         ┌────────────────┴────────────────┐
         │                                 │
         ▼                                 ▼
-        '''text
 ┌──────────────────┐            ┌────────────────────┐
 │ streamlit_app.py │            │ tkinter_app.py      │
 │    (Web App)     │            │   (Desktop App)     │
 └──────────────────┘            └────────────────────┘
-
-
-'''
 
 # 🧰 **5. Troubleshooting**
 
@@ -221,6 +219,7 @@ MIT License
 <p align="center">
 ✨ Built with Python. Designed for beginners. Ready for real-world use. ✨
 </p>
+
 
 
 
