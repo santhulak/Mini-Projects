@@ -27,16 +27,15 @@ expenses.csv
 
 ---
 
-# 🗂️ **Project Structure**
-personal-expense-tracker/
-│
-├── expense_tracker.py # CLI Tool
-├── streamlit_app.py # Streamlit Web UI
-├── tkinter_app.py # Tkinter Desktop App
-├── expenses.csv # Auto-created on first run
-├── requirements.txt
-└── README.md
+## 📁 Project Structure
 
+📦 personal-expense-tracker
+├─ 📄 expense_tracker.py — CLI Tool
+├─ 🌐 streamlit_app.py — Streamlit Web UI
+├─ 🖥️ tkinter_app.py — Tkinter Desktop App
+├─ 📊 expenses.csv — Auto-created on first run
+├─ 📘 requirements.txt
+└─ 📝 README.md
 
 ---
 
@@ -223,5 +222,6 @@ MIT License
 <p align="center">
 ✨ Built with Python. Designed for beginners. Ready for real-world use. ✨
 </p>
+
 
 
