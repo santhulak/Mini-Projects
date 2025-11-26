@@ -1,7 +1,3 @@
-<!-- PROJECT BANNER -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250?text=Personal+Expense+Tracker+%7C+Python+Mini+Project" alt="Project Banner">
-</p>
 
 <h1 align="center">💰 Personal Expense Tracker — Python Mini Project</h1>
 
@@ -222,6 +218,7 @@ MIT License
 <p align="center">
 ✨ Built with Python. Designed for beginners. Ready for real-world use. ✨
 </p>
+
 
 
 
