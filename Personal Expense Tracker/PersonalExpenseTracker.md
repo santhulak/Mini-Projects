@@ -166,6 +166,7 @@ You can make development easier with:
         ┌────────────────┴────────────────┐
         │                                 │
         ▼                                 ▼
+        '''text
 ┌──────────────────┐            ┌────────────────────┐
 │ streamlit_app.py │            │ tkinter_app.py      │
 │    (Web App)     │            │   (Desktop App)     │
@@ -220,6 +221,7 @@ MIT License
 <p align="center">
 ✨ Built with Python. Designed for beginners. Ready for real-world use. ✨
 </p>
+
 
 
 
