@@ -1,0 +1,5 @@
+id,date,category,amount,currency,payment_method,notes
+0fe50e02-c38c-449d-8c64-8810d9d7b5e9,2025-11-25,Food,250.0,INR,Card,Lunch with team
+c608145c-10ea-458f-9fe2-e980a0d61218,2025-11-26,Food,200.0,INR,UPI,Dinner debug test
+710fcee9-9b54-418f-a008-d94136974753,2025-11-26,Transport,50.0,INR,UPI,Bus
+5eaa0291-dc06-49a6-8fee-a41124a7758f,2025-11-26,Entertainment,200.0,INR,Netbanking,Movie
