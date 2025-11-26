@@ -172,7 +172,7 @@ You can make development easier with:
 │ streamlit_app.py │            │ tkinter_app.py      │
 │    (Web App)     │            │   (Desktop App)     │
 └──────────────────┘            └────────────────────┘
-'''---
+```
 # 🧰 **5. Troubleshooting**
 
 ### ❌ *ModuleNotFoundError: pandas*
@@ -219,6 +219,7 @@ MIT License
 <p align="center">
 ✨ Built with Python. Designed for beginners. Ready for real-world use. ✨
 </p>
+
 
 
 
